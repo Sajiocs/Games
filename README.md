@@ -1,2 +1,2 @@
-# Hangman
-Hangman game using pygame module from Python.
+#Games 
+This is a repository with basic games using python's Pygame module
